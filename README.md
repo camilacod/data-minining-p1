@@ -5,6 +5,12 @@ Notebook autocontenido para Databricks que cubre las 5 partes del proyecto sobre
 
 ---
 
+## Integrantes
+
+- Frisancho, Christian
+- Valverde, Camila
+- Zuloeta, Marcelo
+
 ## 1. Contenido
 
 ```
